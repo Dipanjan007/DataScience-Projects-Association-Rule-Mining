@@ -1,7 +1,3 @@
-# ol_Miss
-First Repository
+# DataScience-Projects-Association Rule Mining
 
-
-Hello,
-
-I am Dipanjan, I would like to learn this platform in some months, please help me if you can.
+Here we have the Association Rule Mining implemented on the Groceries DataSet
